@@ -1,0 +1,72 @@
+.nav_item {
+    background: indianred;
+    height: 50px;
+    display: flex;
+    /* align-content: flex-start; */
+    /* text-align: center;
+    color: white; */
+    
+    /* 居中方法多种。 
+    1.设置内边距
+
+    css box
+      display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
+  
+  display: -moz-box;
+  -moz-box-orient: horizontal;
+  -moz-box-pack: center;
+  -moz-box-align: center;
+  
+  display: -o-box;
+  -o-box-orient: horizontal;
+  -o-box-pack: center;
+  -o-box-align: center;
+  
+  display: -ms-box;
+  -ms-box-orient: horizontal;
+  -ms-box-pack: center;
+  -ms-box-align: center;
+  
+  display: box;
+  box-orient: horizontal;
+  box-pack: center;
+  box-align: center;
+  */
+
+
+      /*flex 布局*/
+      /* display: flex; */
+      /*实现垂直居中*/
+      /* align-items: center; */
+      /*实现水平居中*/
+      /* justify-content: center; */
+    
+    
+    /* display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center; */
+}
+
+.nav_item_title {
+  color:white;
+  display: -webkit-box;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
+  /* background: chartreuse; */
+  text-align: center;
+  width: 100%;
+  /* margin-left: 10%; */
+}
+
+.nav_item_back {
+  /* background: green; */
+  margin-left: 10px;
+  /* width: 50px; */
+  color: white;
+  display: -webkit-box;
+  -webkit-box-align: center;
+}
+

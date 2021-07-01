@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+}
+
+.item_img {
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.item_title {
+    /* background: honeydew; */
+    /* 上右下左 */
+    margin: 10px;
+}
+
+.item_content {
+    /* background: green; */
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 14px;
+    color: gray;
+}
+
+.item_line {
+    margin-top: 10px;
+    height: 1px;
+    background: gainsboro;
+}
+
+.item_bottom_tool {
+    background: chartreuse;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.item_bottom_tool_look{
+    /* background: red; */
+    position:absolute;
+    right: 10px;
+    color: royalblue;
+    font-size: 14px;
+}

@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+
+.slider-bar {
+    width: 20%;
+    background: black;
+}
+
+.main {
+    width: 80%;
+    background: white;
+}

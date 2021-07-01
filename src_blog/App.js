@@ -9,7 +9,15 @@ class App extends Component {
   render() {
     return (
       <div>
-        dxl
+        {/* <div>
+          <Header></Header>
+          <Blog></Blog>
+        </div> */}
+
+          <Link to={{
+            pathname:"/detail",
+            state:{data:'dic'}
+          }}>to Page1</Link>
       </div>
     );
   }

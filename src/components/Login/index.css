@@ -1,0 +1,39 @@
+.login_icon_container {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .login_icon { */
+    /* left: calc(50% - 30px);
+}
+
+/* .login_icon_container {
+    margin-top: 20px;
+    position: flex;
+}
+
+.login_icon {
+    position: absolute;
+    left: 50%;
+    transform: translateX(50%);
+} */
+
+.login_name_container {
+
+    padding-top: 30px;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.login_button_container{
+    padding-top: 30px;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.pwd_icon {
+    width: 20px;
+}
+

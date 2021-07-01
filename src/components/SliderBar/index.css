@@ -1,0 +1,43 @@
+.header .logo {
+    text-decoration: none;
+    color: white;
+    padding: 30px 20px 10px 20px;
+    font-size: 30px;
+    padding-left: 20px;
+    /* background: green; */
+}
+
+.header .info {
+    padding-left: 20px;
+    font-size: 14px;
+    color: gray;
+}
+
+/* .container > *{
+    padding: 10px 20px;
+}
+ */
+
+
+ .nav div{
+     color: white;
+     display: block;
+     font-size: 16px;
+ }
+
+ .nav {
+     margin-top: 30px;
+     margin-bottom: 30px;
+     padding-left: 20px;
+ }
+
+ .taglist div {
+    color: white;
+    display: block;
+    padding-left: 20px;
+    font-size: 16px;
+ }
+
+ .active div{
+     color: black;
+ }
